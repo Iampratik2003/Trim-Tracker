@@ -67,7 +67,7 @@ cd Trim-Tracker
 npm install
 ```
 
-### Set up environment variables for JWT secret and MongoDB URI:
+### 4. Set up environment variables for JWT secret and MongoDB URI:
 Create a .env file in the root directory with the following contents:
 
 ```bash
