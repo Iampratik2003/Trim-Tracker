@@ -47,35 +47,49 @@ MongoDB (local or cloud)
 
 
 
-Setup
-1. Clone the repository:
-bash
-Copy code
+## Setup
+
+### 1. Clone the repository:
+
+```bash
 git clone https://github.com/Iampratik2003/Trim-Tracker.git
-2. Navigate to the project directory:
-bash
-Copy code
+```
+
+### 2. Navigate to the project directory:
+
+```bash
 cd Trim-Tracker
-3. Install dependencies for both the frontend and backend:
-bash
-Copy code
+```
+
+### 3. Install dependencies for both the frontend and backend:
+
+```bash
 npm install
-4. Set up environment variables for JWT secret and MongoDB URI:
+```
+
+### Set up environment variables for JWT secret and MongoDB URI:
 Create a .env file in the root directory with the following contents:
 
-bash
-Copy code
+```bash
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-5. Start the server:
-bash
-Copy code
+```
+
+### 5. Start the server:
+
+```bash
 npm run start
-Usage
+```
+
+## Usage
 Customers: Sign up or log in to book appointments at your preferred salon.
 Salon Owners: Manage your salon's profile, services, and appointments through the owner dashboard.
-API Documentation
+
+## API Documentation
 For detailed API endpoints and usage, you can refer to the Postman collection included in the repository.
 
-Contributing
+## Contributing
 If you'd like to contribute to Trim Tracker, please fork the repository and use a feature branch. Pull requests are welcome.
+
+
+
