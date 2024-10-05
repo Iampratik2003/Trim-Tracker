@@ -77,8 +77,7 @@ Start the server:
 
 bash
 ### Copy code
-npm start
-The application will be running at http://localhost:3000.
+npm run start
 
 Usage
 Customers: Sign up or log in to book appointments at your preferred salon.
