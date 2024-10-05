@@ -1,4 +1,4 @@
-![Screenshot (370)](https://github.com/user-attachments/assets/b5dc7f97-fc75-4df9-9414-66a5974830b4)# Trim-Tracker
+# Trim-Tracker
 Trim Tracker is a comprehensive salon management and booking platform designed to streamline the process for both salon owners and customers. It allows users to browse available salons, book appointments based on real-time availability, and manage their bookings effortlessly. Salon owners can manage customer queues, service offerings, and appointment schedules through an intuitive dashboard.
 
 #Features
